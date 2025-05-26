@@ -1,4 +1,4 @@
-entscheid = input('Willst du gehen oder bleiben? [gehen/bleiben]: ').lower()
+entscheid = input('Willst du gehen oder bleiben? [gehen/bleiben]: ')
 if entscheid == 'gehen':
   print('Ok, ciao!')
 elif entscheid == 'bleiben':
